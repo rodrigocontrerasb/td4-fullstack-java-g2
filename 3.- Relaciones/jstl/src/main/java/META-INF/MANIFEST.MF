@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Specification-Title: JavaServer Pages Standard Tag Library (JSTL)
+Created-By: 1.4.2-38 ("Apple Computer, Inc.")
+Ant-Version: Apache Ant 1.6.1
+Implementation-Title: JavaServer Pages Standard Tag Library API Refere
+ nce Implementation
+Specification-Version: 1.1
+Implementation-Vendor-Id: com.sun
+Extension-Name: javax.servlet.jsp.jstl
+Implementation-Version: 1.1.2
+Implementation-Vendor: Sun Microsystems, Inc.
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV$1.class
+SHA1-Digest: 5Ykum4uQku+lIW+L9rxCLpU2CVg=
+
+Name: javax/servlet/jsp/jstl/core/Config.class
+SHA1-Digest: mwI5GLLgluDDgpZVmStqd5SxINk=
+
+Name: javax/servlet/jsp/jstl/core/LoopTag.class
+SHA1-Digest: Rr0POIJaZRcxhBAaCo6xqvC+gp4=
+
+Name: javax/servlet/jsp/jstl/sql/ResultSupport.class
+SHA1-Digest: fGUtU1M0vPEcW/TxgRR/2OKY1xU=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV.class
+SHA1-Digest: d++j0q8W5pfPlo2mbv8kdAES7TE=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagSupport.class
+SHA1-Digest: lbvFrQ1WWeglC0xVmnmJtoJOsLc=
+
+Name: javax/servlet/jsp/jstl/fmt/LocaleSupport.class
+SHA1-Digest: qZ5mzL7jsWHQP3iz6rEJ2CLu7Pw=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV$1.class
+SHA1-Digest: FRyOMrMeMDsPjeN9At5WsfgqwvE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+
+Name: javax/servlet/jsp/jstl/sql/Result.class
+SHA1-Digest: cnc6IfiyMkBxvzuSCBsy57Rr2P0=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV$MyContentHandler.class
+SHA1-Digest: TfbFtarGMNybY8ILKpm4PPsgptA=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV.class
+SHA1-Digest: whVAmtYt0yTMnRq1+Vui2h8u4Q4=
+
+Name: javax/servlet/jsp/jstl/core/ConditionalTagSupport.class
+SHA1-Digest: bkz8rYsjltpZGrNXAlcmO7adBTo=
+
+Name: javax/servlet/jsp/jstl/fmt/LocalizationContext.class
+SHA1-Digest: wHGiFPuQNC0c0wWxvSrg7a4D+5o=
+
+Name: javax/servlet/jsp/jstl/sql/SQLExecutionTag.class
+SHA1-Digest: 8e7rhBMXNTF+Yd1sQR5wH7zBY7E=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagStatus.class
+SHA1-Digest: DNtkwd3IWGhj4osW5Qc+f/bomBA=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV$PermittedTaglibsH
+ andler.class
+SHA1-Digest: wK2br17wanp/FEFvolZ+DHA0Yv4=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagSupport$1Status.class
+SHA1-Digest: xwzSvqj6Hx6Eg53wjuhfBEW2px4=
+
+Name: javax/servlet/jsp/jstl/sql/ResultImpl.class
+SHA1-Digest: PLAXcJXf8AAPSlReh2CYNsFPKOI=
+

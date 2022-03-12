@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Implementation-Title: JDBC
+Implementation-Version: 18.3.0.0.0
+sealed: true
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Title: JDBC
+Class-Path: oraclepki.jar
+Implementation-Vendor: Oracle Corporation
+Main-Class: oracle.jdbc.OracleDriver
+Ant-Version: Apache Ant 1.7.1
+Repository-Id: JAVAVM_18.1.0.0.0_LINUX.X64_180620
+Created-By: 25.171-b11 (Oracle Corporation)
+Specification-Version: 4.0
+
+Name: oracle/sql/
+Sealed: false
+
+Name: oracle/sql/converter/
+Sealed: false
+
+Name: oracle/jdbc/logging/annotations/
+Sealed: false
+
+Name: oracle/sql/converter_xcharset/
+Sealed: false
+

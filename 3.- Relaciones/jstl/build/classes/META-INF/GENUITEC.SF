@@ -1,0 +1,63 @@
+Signature-Version: 1.0
+Created-By: 1.5.0_11 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest-Main-Attributes: D1J91v75lZryvhDHaKcez2W60lE=
+SHA1-Digest-Manifest: XiSpfjeRPLPdlE1ygOOYK5OjEow=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV$1.class
+SHA1-Digest: s3PH1NDFCLV7vRmi5ioE+auD2GQ=
+
+Name: javax/servlet/jsp/jstl/core/Config.class
+SHA1-Digest: 54ztbY6d5fskZNb6OHXPcxQwnYY=
+
+Name: javax/servlet/jsp/jstl/core/LoopTag.class
+SHA1-Digest: EfeUFhvfoQxavi63MZHpD2AAaBY=
+
+Name: javax/servlet/jsp/jstl/sql/ResultSupport.class
+SHA1-Digest: oYzKjqCKUx3YC5j6HNpxthdTRF0=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV.class
+SHA1-Digest: 9z6McjOkWy+EVBDxXjJzO38uOmk=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagSupport.class
+SHA1-Digest: +BTcEvrCNV6aebFLGlZNxittBug=
+
+Name: javax/servlet/jsp/jstl/fmt/LocaleSupport.class
+SHA1-Digest: V7AJiTMIl+3qAJn+v16MKL2GoB8=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV$1.class
+SHA1-Digest: oIootAX/5BGCFdL2odff1LWnogI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: javax/servlet/jsp/jstl/sql/Result.class
+SHA1-Digest: iXfpt0YazJ7PzxpGZmFkqXArF6I=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV$MyContentHandler.class
+SHA1-Digest: i3Ba+l1NVZ6SNTCKAqS0gs5a/5I=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV.class
+SHA1-Digest: 1M256NHQnD4ruCxsjBNvvPzyn2I=
+
+Name: javax/servlet/jsp/jstl/core/ConditionalTagSupport.class
+SHA1-Digest: v4Wc9LfBahxMtxyJJ1Yw0Q8jSLM=
+
+Name: javax/servlet/jsp/jstl/fmt/LocalizationContext.class
+SHA1-Digest: cWFhxxD1HdVcAqtDUT2UOdSveHw=
+
+Name: javax/servlet/jsp/jstl/sql/SQLExecutionTag.class
+SHA1-Digest: KBoR97y3MZzpY/AmDuCIjNYD+cg=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagStatus.class
+SHA1-Digest: 5wIllV+r4l7Zp5McNtTv2Iv/Y1A=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV$PermittedTaglibsH
+ andler.class
+SHA1-Digest: mkg9qw/Mz8P5sZ/rJZuIZSXeRzI=
+
+Name: javax/servlet/jsp/jstl/sql/ResultImpl.class
+SHA1-Digest: FTKnSju+cTWdJo4eq0uEUMJJKTE=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagSupport$1Status.class
+SHA1-Digest: HQDbxqFUIB43SK0e1kbm9xDZsME=
+
