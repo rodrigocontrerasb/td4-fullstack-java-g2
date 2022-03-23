@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sistema de Noticias</title>
+</head>
+<body>
+<h1 style="margin: 0; text-align: center; font-size: 100px">Sistema de Noticias</h1>
+<table>
+	<tbody>
+		<tr>
+			<td style="border: 1px solid black; padding: 3px; margin: 0px;">
+				<img alt="" th:src="${noticia1[2]}" width="355px" height="200px">
+				<h2 th:text="${noticia1[0]}" />
+				<p th:text="${noticia1[1]}" />
+				
+			</td>
+			<td style="border: 1px solid black; padding: 3px; margin: 0px;">
+				<img alt="" th:src="${noticia2[2]}" width="355px" height="200px">
+				<h2 th:text="${noticia2[0]}" />
+				<p th:text="${noticia2[1]}" />
+			</td>
+			<td style="border: 1px solid black; padding: 3px; margin: 0px;">
+				<img alt="" th:src="${noticia3[2]}" width="355px" height="200px">
+				<h2 th:text="${noticia3[0]}" />
+				<p th:text="${noticia3[1]}" />
+			</td>
+			<td style="border: 1px solid black; padding: 3px; margin: 0px;">
+				<img alt="" th:src="${noticia4[2]}" width="355px" height="200px">
+				<h2 th:text="${noticia4[0]}" />
+				<p th:text="${noticia4[1]}" />
+			</td>
+			<td style="border: 1px solid black; padding: 3px; margin: 0px;">
+				<img alt="" th:src="${noticia5[2]}" width="355px" height="200px">
+				<h2 th:text="${noticia5[0]}" />
+				<p th:text="${noticia5[1]}" />
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+</body>
+</html>

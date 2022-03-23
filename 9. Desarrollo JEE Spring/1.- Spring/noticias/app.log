@@ -1,0 +1,35 @@
+2022-03-19 21:33:13.411  INFO 4778 --- [restartedMain] c.desafio.noticias.NoticiasApplication   : Starting NoticiasApplication on MacBook-Air-de-Rodrigo.local with PID 4778 (/Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/noticias/target/classes started by rodrigo in /Users/rodrigo/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/noticias)
+2022-03-19 21:33:13.420  INFO 4778 --- [restartedMain] c.desafio.noticias.NoticiasApplication   : No active profile set, falling back to default profiles: default
+2022-03-19 21:33:13.473  INFO 4778 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-19 21:33:13.473  INFO 4778 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-19 21:33:14.906  INFO 4778 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-19 21:33:14.949  INFO 4778 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-19 21:33:14.950  INFO 4778 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2022-03-19 21:33:15.108  INFO 4778 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-19 21:33:15.108 DEBUG 4778 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2022-03-19 21:33:15.109  INFO 4778 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1635 ms
+2022-03-19 21:33:15.242 DEBUG 4778 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2022-03-19 21:33:15.535  INFO 4778 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-03-19 21:33:15.549 DEBUG 4778 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-03-19 21:33:15.691 DEBUG 4778 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-03-19 21:33:15.713 DEBUG 4778 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-03-19 21:33:15.735 DEBUG 4778 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-03-19 21:33:16.062  INFO 4778 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-19 21:33:16.211  INFO 4778 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-19 21:33:16.216  INFO 4778 --- [restartedMain] c.desafio.noticias.NoticiasApplication   : Started NoticiasApplication in 18.332 seconds (JVM running for 24.162)
+2022-03-19 21:33:24.280  INFO 4778 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-19 21:33:24.281  INFO 4778 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-19 21:33:24.281 DEBUG 4778 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2022-03-19 21:33:24.295 DEBUG 4778 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2022-03-19 21:33:24.295  INFO 4778 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2022-03-19 21:33:24.312 DEBUG 4778 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/", parameters={}
+2022-03-19 21:33:24.320 DEBUG 4778 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public java.lang.String com.desafio.noticias.MainController.Main(org.springframework.ui.Model)
+2022-03-19 21:33:24.343  INFO 4778 --- [http-nio-8080-exec-1] com.desafio.noticias.MainController      : Se ha añadido correctamente una noticia
+2022-03-19 21:33:24.343  INFO 4778 --- [http-nio-8080-exec-1] com.desafio.noticias.MainController      : Se ha añadido correctamente una noticia
+2022-03-19 21:33:24.343  INFO 4778 --- [http-nio-8080-exec-1] com.desafio.noticias.MainController      : Se ha añadido correctamente una noticia
+2022-03-19 21:33:24.344  INFO 4778 --- [http-nio-8080-exec-1] com.desafio.noticias.MainController      : Se ha añadido correctamente una noticia
+2022-03-19 21:33:24.344  INFO 4778 --- [http-nio-8080-exec-1] com.desafio.noticias.MainController      : Se ha añadido correctamente una noticia
+2022-03-19 21:33:24.380 DEBUG 4778 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, application/xml;q=0.9, */*;q=0.8]
+2022-03-19 21:33:25.004 DEBUG 4778 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2022-03-19 21:33:31.277  INFO 4778 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-03-19 21:33:31.284  INFO 4778 --- [RMI TCP Connection(8)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
