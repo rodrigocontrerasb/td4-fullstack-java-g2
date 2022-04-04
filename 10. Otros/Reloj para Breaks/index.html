@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Reloj de Break</title>
+</head>
+<body>
+    </section>
+    <section class="container">
+        <div>
+            <img src="assets/img/logo-academia-bla-790873cdf66b0e681dfbe640ace8a602f5330bec301c409744c358330e823ae3.png" alt="">
+        </div>
+        <div id="clock"></div>
+        <input onchange="setAlarmTime(this.value)" name="alarmTime" type="datetime-local">
+        <div class="controls">
+            <button onclick="setAlarm()" class="button set-alarm">Crear Alarma</button>
+            <button onclick="clearAlarm()" class="button clear-alarm">Borrar Alarma</button>
+        </div>
+    </section>
+    <script src="assets/js/index.js"></script>
+</body>
+</html>
